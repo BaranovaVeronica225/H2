@@ -280,6 +280,7 @@ li:hover  {
 #three {background-color:#FFA07A;}
 #four {background-color:#FF1493;}
 #five {background-color:#9370DB;}
+
 section {
   position: relative;
   margin-left: -10px;
@@ -297,7 +298,7 @@ section .cover {
   z-index: 1;
 }
   
-section .cover img #start {
+section .cover img #start{
   position: absolute;
   display: block;
   min-width: 100%;
