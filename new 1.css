@@ -241,9 +241,7 @@ section .text {
 /*параметры для десктопа*/
 @media only screen and (min-width:990px) {
   
-ul
-
-
+ul{
 position: fixed;
   display: block;
   margin-left: -200px;
