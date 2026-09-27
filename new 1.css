@@ -83,11 +83,11 @@ li:hover  {
    width: 8.3vw;
 }
 
-#one {background-color:#FF0000;}
-#two {background-color:#302c2d;}
-#three {background-color:green;}
-#four {background-color:#FFA07A;}
-#five {background-color:#00FFFF;}
+#one {background-color:#00FF00;}
+#two {background-color:#DC143C;}
+#three {background-color:#FFA07A;}
+#four {background-color:#FF1493;}
+#five {background-color:#9370DB;}
 
 section {
   position: relative;
@@ -152,7 +152,8 @@ section .text {
     to {
         -webkit-transform: rotate(359deg);
     }
-}img {
+}
+img {
   width: 100%;
 }
   
@@ -225,7 +226,7 @@ section .text {
   color: black;
 }
  #one2 {
-  background: linear-gradient(to bottom right, #FF0000, green);
+  background: linear-gradient(to bottom right, #FF0000, red);
   
 }
 .poster {
@@ -423,10 +424,10 @@ img {
   color: black;
 }
 #one2 {
-  background: linear-gradient(to bottom right, pink, #191970);
+  background: linear-gradient(to bottom right, 00FF00, #191970);
 }
 .poster {
-  overflow: hidden;
+  overflow: hidden; 
   width: 350px;
   margin-top: 6vw;
   margin-left: 525px;
